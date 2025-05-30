@@ -6,7 +6,7 @@
 
 1. 10417221 - Nicolai - Arquitetou a Nuvem
 1. RA - Matheus Vaghetti - Aplicação CRUD
-1. RA - Kauã Paixão - Documentação
+1. 10418548 - Kauã Paixão - Documentação
 
 ## 1. Visão geral
 <!-- Descreva rapidamente o domínio escolhido, por que foi selecionado e o que o CRUD faz. -->
@@ -14,7 +14,7 @@ Um back-end que recebe nome, preço e quantidade de itens de varejo; trata esses
 
 ## 2. Arquitetura
 
-![Diagrama](docs/arquitetura.png)
+[Diagrama]
 
 | Camada | Serviço | Descrição |
 |--------|---------|-----------|
