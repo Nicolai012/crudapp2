@@ -5,7 +5,7 @@
 **Grupo**:
 
 1. 10417221 - Nicolai - Arquitetou a Nuvem
-1. RA - Matheus Vaghetti - Aplicação CRUD
+1. 10191108 - Matheus Vaghetti - Aplicação CRUD
 1. 10418548 - Kauã Paixão - Documentação
 
 ## 1. Visão geral
@@ -25,7 +25,7 @@ Um back-end que recebe nome, preço e quantidade de itens de varejo; trata esses
 
 ## 3. Como rodar localmente
 
-mvnw.cmd spring-boot:run
-./mvnw clean package
-docker build -t Imagem .
-docker run -p 8080:8080 Imagem
+mvnw.cmd spring-boot:run;
+ ./mvnw clean package;
+ docker build -t Imagem . ;
+ docker run -p 8080:8080 Imagem ;
