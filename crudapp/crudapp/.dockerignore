@@ -1,0 +1,13 @@
+# Ignora a pasta de builds antigos
+target
+
+# Ignora arquivos de configuração de IDEs
+.vscode
+.idea
+
+# Ignora arquivos gerados pela compilação
+*.iml
+*.class
+
+# Ignora o repositório Git
+.git
